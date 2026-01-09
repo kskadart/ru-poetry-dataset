@@ -11,6 +11,13 @@ The dataset contains ~31,000 Russian poems with the following columns:
 
 Dataset file: `datasets/ru_poems_31k_v1.0.0.csv` (stored with Git LFS)
 
+### Source Datasets
+
+This dataset was created by merging and deduplicating two Kaggle datasets:
+
+- [19,000 Russian Poems](https://www.kaggle.com/datasets/grafstor/19-000-russian-poems) by grafstor
+- [Russian Poetry](https://www.kaggle.com/datasets/greencools/russianpoetry) by greencools
+
 ## Installation
 
 ```bash
