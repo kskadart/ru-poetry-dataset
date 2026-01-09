@@ -1,4 +1,4 @@
-# ru-poetry-dataset
+# RU Poetry Dataset
 
 Russian poetry dataset (31k poems) with merge/validation scripts.
 
