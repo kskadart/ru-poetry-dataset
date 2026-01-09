@@ -15,8 +15,10 @@ Dataset file: `datasets/ru_poems_31k_v1.0.0.csv` (stored with Git LFS)
 
 This dataset was created by merging and deduplicating two Kaggle datasets:
 
-- [19,000 Russian Poems](https://www.kaggle.com/datasets/grafstor/19-000-russian-poems) by grafstor
-- [Russian Poetry](https://www.kaggle.com/datasets/greencools/russianpoetry) by greencools
+| Dataset | Author | License |
+|---------|--------|---------|
+| [19,000 Russian Poems](https://www.kaggle.com/datasets/grafstor/19-000-russian-poems) | grafstor | [GNU FDL 1.3](http://www.gnu.org/licenses/fdl-1.3.html) |
+| [Russian Poetry](https://www.kaggle.com/datasets/greencools/russianpoetry) | greencools | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) (via [IlyaGusev/PoetryCorpus](https://github.com/IlyaGusev/PoetryCorpus)) |
 
 ## Installation
 
@@ -69,4 +71,5 @@ ru-poetry-dataset/
 
 ## License
 
-MIT
+- **Scripts** (`src/`): MIT
+- **Dataset**: See source dataset licenses above (GNU FDL 1.3 + Apache-2.0)
